@@ -1,32 +1,32 @@
 [
   {
     "full_name": "bdougie/git-twitch",
-    "stargazers_count": 6,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 244,
+    "stargazers_count": 246,
     "open_issues_count": 31,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "mui-org/material-ui",
-    "stargazers_count": 61296,
-    "open_issues_count": 439,
-    "forks_count": 18248
+    "stargazers_count": 61341,
+    "open_issues_count": 456,
+    "forks_count": 18270
   },
   {
     "full_name": "Gruntfuggly/todo-tree",
-    "stargazers_count": 494,
+    "stargazers_count": 495,
     "open_issues_count": 38,
     "forks_count": 55
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 47105,
-    "open_issues_count": 733,
-    "forks_count": 8820
+    "stargazers_count": 47119,
+    "open_issues_count": 717,
+    "forks_count": 8832
   }
 ]
