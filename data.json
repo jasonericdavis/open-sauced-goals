@@ -1,8 +1,8 @@
 [
   {
     "full_name": "electron/electronjs.org",
-    "stargazers_count": 1272,
-    "open_issues_count": 77,
+    "stargazers_count": 1274,
+    "open_issues_count": 72,
     "forks_count": 644
   },
   {
@@ -13,26 +13,26 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 284,
-    "open_issues_count": 25,
-    "forks_count": 79
+    "stargazers_count": 285,
+    "open_issues_count": 27,
+    "forks_count": 80
   },
   {
     "full_name": "mui-org/material-ui",
-    "stargazers_count": 61778,
-    "open_issues_count": 441,
-    "forks_count": 18617
+    "stargazers_count": 61826,
+    "open_issues_count": 425,
+    "forks_count": 18647
   },
   {
     "full_name": "Gruntfuggly/todo-tree",
     "stargazers_count": 511,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 53
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 47503,
-    "open_issues_count": 662,
-    "forks_count": 8955
+    "stargazers_count": 47526,
+    "open_issues_count": 660,
+    "forks_count": 8964
   }
 ]
