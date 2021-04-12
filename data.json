@@ -19,26 +19,20 @@
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 399,
-    "open_issues_count": 36,
+    "stargazers_count": 401,
+    "open_issues_count": 26,
     "forks_count": 113
   },
   {
-    "full_name": "mui-org/material-ui",
-    "stargazers_count": 67434,
-    "open_issues_count": 504,
-    "forks_count": 21352
-  },
-  {
     "full_name": "Gruntfuggly/todo-tree",
-    "stargazers_count": 627,
+    "stargazers_count": 628,
     "open_issues_count": 7,
     "forks_count": 64
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 49753,
-    "open_issues_count": 638,
-    "forks_count": 9455
+    "stargazers_count": 49770,
+    "open_issues_count": 639,
+    "forks_count": 9457
   }
 ]
