@@ -7,9 +7,9 @@
   },
   {
     "full_name": "calendso/calendso",
-    "stargazers_count": 4885,
-    "open_issues_count": 59,
-    "forks_count": 372
+    "stargazers_count": 4964,
+    "open_issues_count": 56,
+    "forks_count": 376
   },
   {
     "full_name": "cassidoo/todometer",
@@ -26,7 +26,7 @@
   {
     "full_name": "electron/electronjs.org",
     "stargazers_count": 1381,
-    "open_issues_count": 87,
+    "open_issues_count": 92,
     "forks_count": 679
   },
   {
@@ -45,6 +45,6 @@
     "full_name": "Gruntfuggly/todo-tree",
     "stargazers_count": 674,
     "open_issues_count": 19,
-    "forks_count": 62
+    "forks_count": 63
   }
 ]
