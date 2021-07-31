@@ -1,9 +1,9 @@
 [
   {
     "full_name": "MicrosoftDocs/azure-devops-docs",
-    "stargazers_count": 472,
-    "open_issues_count": 872,
-    "forks_count": 1746
+    "stargazers_count": 473,
+    "open_issues_count": 856,
+    "forks_count": 1751
   },
   {
     "full_name": "jasonericdavis/test-repo",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "cassidoo/todometer",
-    "stargazers_count": 1506,
+    "stargazers_count": 1508,
     "open_issues_count": 29,
-    "forks_count": 180
+    "forks_count": 179
   },
   {
     "full_name": "electron/electronjs.org",
     "stargazers_count": 1396,
-    "open_issues_count": 95,
+    "open_issues_count": 98,
     "forks_count": 686
   },
   {
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "Gruntfuggly/todo-tree",
-    "stargazers_count": 684,
-    "open_issues_count": 28,
+    "stargazers_count": 686,
+    "open_issues_count": 27,
     "forks_count": 67
   }
 ]
