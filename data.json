@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "jasonericdavis/nextjs-jwt",
+    "stargazers_count": 0,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
     "full_name": "chrishoste/eye-tracking",
     "stargazers_count": 18,
     "open_issues_count": 2,
@@ -10,12 +16,6 @@
     "stargazers_count": 476,
     "open_issues_count": 898,
     "forks_count": 1776
-  },
-  {
-    "full_name": "jasonericdavis/test-repo",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
   },
   {
     "full_name": "cassidoo/todometer",
