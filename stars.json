@@ -7,15 +7,15 @@
   },
   {
     "full_name": "dabit3/full-stack-ethereum",
-    "stargazers_count": 334,
+    "stargazers_count": 335,
     "open_issues_count": 0,
-    "forks_count": 73
+    "forks_count": 75
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 154600,
-    "open_issues_count": 33,
-    "forks_count": 17534
+    "stargazers_count": 154872,
+    "open_issues_count": 35,
+    "forks_count": 17566
   },
   {
     "full_name": "enochndika/kimia-UI",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "muaz-khan/RecordRTC",
-    "stargazers_count": 4830,
+    "stargazers_count": 4833,
     "open_issues_count": 351,
     "forks_count": 1545
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "yhirose/cpp-httplib",
-    "stargazers_count": 5614,
-    "open_issues_count": 7,
-    "forks_count": 1207
+    "stargazers_count": 5621,
+    "open_issues_count": 6,
+    "forks_count": 1211
   },
   {
     "full_name": "bdougie/git-twitch",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "brutella/hc",
-    "stargazers_count": 1635,
+    "stargazers_count": 1637,
     "open_issues_count": 29,
     "forks_count": 191
   },
   {
     "full_name": "vercel/nextjs-subscription-payments",
-    "stargazers_count": 1006,
+    "stargazers_count": 1009,
     "open_issues_count": 11,
-    "forks_count": 120
+    "forks_count": 121
   },
   {
     "full_name": "ThatGuySam/doesitarm",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "dayhaysoos/use-shopping-cart",
-    "stargazers_count": 635,
+    "stargazers_count": 639,
     "open_issues_count": 21,
     "forks_count": 62
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "cassidoo/todometer",
-    "stargazers_count": 1525,
+    "stargazers_count": 1526,
     "open_issues_count": 31,
     "forks_count": 182
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 11325,
+    "stargazers_count": 11327,
     "open_issues_count": 12,
     "forks_count": 516
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "SupremeTechnopriest/react-idle-timer",
-    "stargazers_count": 523,
-    "open_issues_count": 10,
+    "stargazers_count": 524,
+    "open_issues_count": 11,
     "forks_count": 96
   }
 ]
