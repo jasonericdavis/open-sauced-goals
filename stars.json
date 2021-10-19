@@ -7,15 +7,15 @@
   },
   {
     "full_name": "dabit3/full-stack-ethereum",
-    "stargazers_count": 423,
+    "stargazers_count": 429,
     "open_issues_count": 0,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 164156,
-    "open_issues_count": 161,
-    "forks_count": 18711
+    "stargazers_count": 164522,
+    "open_issues_count": 186,
+    "forks_count": 18780
   },
   {
     "full_name": "enochndika/kimia-UI",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "muaz-khan/RecordRTC",
-    "stargazers_count": 4906,
-    "open_issues_count": 359,
-    "forks_count": 1564
+    "stargazers_count": 4912,
+    "open_issues_count": 360,
+    "forks_count": 1567
   },
   {
     "full_name": "dialogflow/selfservicekiosk-audio-streaming",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "yhirose/cpp-httplib",
-    "stargazers_count": 5837,
-    "open_issues_count": 7,
-    "forks_count": 1244
+    "stargazers_count": 5856,
+    "open_issues_count": 5,
+    "forks_count": 1250
   },
   {
     "full_name": "bdougie/git-twitch",
@@ -97,25 +97,25 @@
   },
   {
     "full_name": "vercel/nextjs-subscription-payments",
-    "stargazers_count": 1147,
+    "stargazers_count": 1160,
     "open_issues_count": 13,
-    "forks_count": 149
+    "forks_count": 150
   },
   {
     "full_name": "ThatGuySam/doesitarm",
-    "stargazers_count": 3015,
-    "open_issues_count": 48,
+    "stargazers_count": 3021,
+    "open_issues_count": 51,
     "forks_count": 145
   },
   {
     "full_name": "VickiLanger/LGBTQ-of-the-day-bot",
     "stargazers_count": 60,
     "open_issues_count": 20,
-    "forks_count": 177
+    "forks_count": 178
   },
   {
     "full_name": "dayhaysoos/use-shopping-cart",
-    "stargazers_count": 659,
+    "stargazers_count": 662,
     "open_issues_count": 26,
     "forks_count": 64
   },
@@ -135,7 +135,7 @@
     "full_name": "opentok/opentok-node",
     "stargazers_count": 157,
     "open_issues_count": 20,
-    "forks_count": 166
+    "forks_count": 167
   },
   {
     "full_name": "loopDelicious/sparkles",
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "cassidoo/todometer",
-    "stargazers_count": 1537,
+    "stargazers_count": 1539,
     "open_issues_count": 30,
     "forks_count": 186
   },
   {
     "full_name": "channingallen/tower-defense",
-    "stargazers_count": 523,
+    "stargazers_count": 524,
     "open_issues_count": 11,
     "forks_count": 28
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 11429,
+    "stargazers_count": 11434,
     "open_issues_count": 12,
     "forks_count": 517
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "SupremeTechnopriest/react-idle-timer",
-    "stargazers_count": 549,
+    "stargazers_count": 552,
     "open_issues_count": 13,
     "forks_count": 97
   }
