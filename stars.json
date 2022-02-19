@@ -19,19 +19,19 @@
   },
   {
     "full_name": "dabit3/full-stack-ethereum",
-    "stargazers_count": 598,
+    "stargazers_count": 602,
     "open_issues_count": 0,
-    "forks_count": 162
+    "forks_count": 163
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 180413,
+    "stargazers_count": 180900,
     "open_issues_count": 13,
-    "forks_count": 20789
+    "forks_count": 20856
   },
   {
     "full_name": "enochndika/kimia-UI",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 1,
     "forks_count": 33
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "muaz-khan/RecordRTC",
-    "stargazers_count": 5099,
+    "stargazers_count": 5105,
     "open_issues_count": 378,
-    "forks_count": 1622
+    "forks_count": 1624
   },
   {
     "full_name": "dialogflow/selfservicekiosk-audio-streaming",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "penk/ruha.camera",
-    "stargazers_count": 360,
+    "stargazers_count": 363,
     "open_issues_count": 2,
     "forks_count": 36
   },
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "builders-club/onlythemes",
-    "stargazers_count": 10,
+    "stargazers_count": 11,
     "open_issues_count": 25,
     "forks_count": 9
   },
   {
     "full_name": "yhirose/cpp-httplib",
-    "stargazers_count": 6471,
-    "open_issues_count": 7,
-    "forks_count": 1372
+    "stargazers_count": 6500,
+    "open_issues_count": 8,
+    "forks_count": 1377
   },
   {
     "full_name": "bdougie/git-twitch",
@@ -91,20 +91,20 @@
   },
   {
     "full_name": "brutella/hc",
-    "stargazers_count": 1683,
+    "stargazers_count": 1688,
     "open_issues_count": 27,
     "forks_count": 199
   },
   {
     "full_name": "vercel/nextjs-subscription-payments",
-    "stargazers_count": 1558,
+    "stargazers_count": 1566,
     "open_issues_count": 14,
-    "forks_count": 232
+    "forks_count": 235
   },
   {
     "full_name": "ThatGuySam/doesitarm",
-    "stargazers_count": 3257,
-    "open_issues_count": 57,
+    "stargazers_count": 3259,
+    "open_issues_count": 63,
     "forks_count": 164
   },
   {
@@ -116,7 +116,7 @@
   {
     "full_name": "dayhaysoos/use-shopping-cart",
     "stargazers_count": 694,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 74
   },
   {
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 11786,
+    "stargazers_count": 11804,
     "open_issues_count": 14,
-    "forks_count": 527
+    "forks_count": 528
   },
   {
     "full_name": "open-sauced/swag",
@@ -176,7 +176,7 @@
   {
     "full_name": "SupremeTechnopriest/react-idle-timer",
     "stargazers_count": 612,
-    "open_issues_count": 23,
-    "forks_count": 106
+    "open_issues_count": 2,
+    "forks_count": 107
   }
 ]
