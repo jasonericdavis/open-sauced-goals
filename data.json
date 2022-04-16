@@ -7,9 +7,9 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 189085,
+    "stargazers_count": 189385,
     "open_issues_count": 1,
-    "forks_count": 21803
+    "forks_count": 21852
   },
   {
     "full_name": "chrishoste/eye-tracking",
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "MicrosoftDocs/azure-devops-docs",
-    "stargazers_count": 580,
-    "open_issues_count": 1120,
-    "forks_count": 2051
+    "stargazers_count": 583,
+    "open_issues_count": 1123,
+    "forks_count": 2058
   },
   {
     "full_name": "cassidoo/todometer",
-    "stargazers_count": 1640,
+    "stargazers_count": 1641,
     "open_issues_count": 30,
-    "forks_count": 203
+    "forks_count": 204
   },
   {
     "full_name": "electron/electronjs.org",
-    "stargazers_count": 1474,
+    "stargazers_count": 1475,
     "open_issues_count": 72,
-    "forks_count": 709
+    "forks_count": 710
   },
   {
     "full_name": "bdougie/git-twitch",
@@ -44,13 +44,13 @@
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 641,
-    "open_issues_count": 17,
-    "forks_count": 218
+    "open_issues_count": 14,
+    "forks_count": 222
   },
   {
     "full_name": "Gruntfuggly/todo-tree",
-    "stargazers_count": 839,
-    "open_issues_count": 61,
-    "forks_count": 86
+    "stargazers_count": 842,
+    "open_issues_count": 60,
+    "forks_count": 85
   }
 ]
