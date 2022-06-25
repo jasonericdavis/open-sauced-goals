@@ -25,13 +25,13 @@
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 196920,
-    "open_issues_count": 12,
-    "forks_count": 22683
+    "stargazers_count": 197168,
+    "open_issues_count": 17,
+    "forks_count": 22725
   },
   {
     "full_name": "enochndika/kimia-UI",
-    "stargazers_count": 281,
+    "stargazers_count": 282,
     "open_issues_count": 1,
     "forks_count": 38
   },
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "muaz-khan/RecordRTC",
-    "stargazers_count": 5313,
-    "open_issues_count": 386,
-    "forks_count": 1655
+    "stargazers_count": 5319,
+    "open_issues_count": 387,
+    "forks_count": 1658
   },
   {
     "full_name": "dialogflow/selfservicekiosk-audio-streaming",
-    "stargazers_count": 110,
+    "stargazers_count": 112,
     "open_issues_count": 44,
     "forks_count": 68
   },
@@ -74,14 +74,14 @@
   {
     "full_name": "builders-club/onlythemes",
     "stargazers_count": 12,
-    "open_issues_count": 28,
+    "open_issues_count": 21,
     "forks_count": 10
   },
   {
     "full_name": "yhirose/cpp-httplib",
-    "stargazers_count": 7164,
+    "stargazers_count": 7181,
     "open_issues_count": 5,
-    "forks_count": 1517
+    "forks_count": 1521
   },
   {
     "full_name": "bdougie/git-twitch",
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "brutella/hc",
-    "stargazers_count": 1704,
+    "stargazers_count": 1705,
     "open_issues_count": 19,
     "forks_count": 198
   },
   {
     "full_name": "vercel/nextjs-subscription-payments",
-    "stargazers_count": 1826,
+    "stargazers_count": 1833,
     "open_issues_count": 18,
-    "forks_count": 305
+    "forks_count": 304
   },
   {
     "full_name": "ThatGuySam/doesitarm",
-    "stargazers_count": 3376,
+    "stargazers_count": 3380,
     "open_issues_count": 80,
     "forks_count": 189
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "dayhaysoos/use-shopping-cart",
-    "stargazers_count": 729,
+    "stargazers_count": 731,
     "open_issues_count": 27,
     "forks_count": 78
   },
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "mame/quine-relay",
-    "stargazers_count": 12238,
+    "stargazers_count": 12240,
     "open_issues_count": 15,
-    "forks_count": 548
+    "forks_count": 547
   },
   {
     "full_name": "open-sauced/swag",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "SupremeTechnopriest/react-idle-timer",
-    "stargazers_count": 694,
-    "open_issues_count": 0,
+    "stargazers_count": 720,
+    "open_issues_count": 1,
     "forks_count": 120
   }
 ]
